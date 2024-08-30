@@ -9,7 +9,7 @@ nav a{
     text-decoration: none;
 }
 a:hover{
-    
+
     color:#404BBF;
 
 }
@@ -95,6 +95,8 @@ h6 a:hover{
     background-color: #4D5AE5;
     border:none;
     color:#FFFFFF;
+    text-align: center;
+    display: inline-block;
 
 
 
