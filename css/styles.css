@@ -1,9 +1,9 @@
 .page-title {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
-  font: weight 700px;
+  font-weight:700px;
   font-style: normal;
-  line-height:1.07 ;
+  line-height:1.07;
 }
 
 .page-menu-list a{
@@ -18,7 +18,8 @@ text-decoration: none;
 }
 
 a {
-  color: #2e2f42;
+  color:#2E2F42;
+  text-decoration: none;
 }
 a:hover {
   color: #404bbf;
@@ -49,9 +50,23 @@ h1 {
   letter: 2%;
   text-align: center;
   color: #ffffff;
-  background-color:#2E2F42
+  
 }
-
+.first-section{
+  background-color:#2E2F42;
+  height: 600px;
+  text-align: center;
+  top: 260px;
+  vertical-align: middle;
+}
+button{
+  background-color:#4D5AE5;
+  color:#FFFFFF;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter:4%;
+}
 .about-us {
     list-style: none;
     font-size 20px;
@@ -123,7 +138,7 @@ h5 {
     font-weight: 500px;
     line-height:1.2;
     letter:2%;
-    color:#2E2F42;
+    
 }
 .portfolio-content p{
     font-size: 16px;
