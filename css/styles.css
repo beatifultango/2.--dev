@@ -58,6 +58,7 @@ h1 {
   text-align: center;
   top: 260px;
   vertical-align: middle;
+  
 }
 button{
   background-color:#4D5AE5;
@@ -183,6 +184,8 @@ button:focus {
 }
 .layout-footer{
   background-color: #2E2F42;
+  height: 312px;
+  width: 1440px;
 }
 footer a {
   font-family: "Raleway", sans-serif;
