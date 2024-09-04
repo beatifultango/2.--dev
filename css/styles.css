@@ -7,12 +7,11 @@
   line-height:1.07;
   color:#4D5AE5;
 }
-.spa{
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  color:#2E2F42;
 
+.span1{
+  color:#4D5AE5;
 }
+
 .spa1 {
   color:#F4F4FD;
 }
@@ -45,7 +44,16 @@ a:focus {
 }
 .contacts a{
     text-decoration: none;
-    color:#2E2F42;
+    color:#434455
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2em;
+    text-decoration: none;
+    width:193px;
+    height:108px;
+}
+.contacts a:hover{
+  color:#9747FF;
 }
 
 body {
@@ -78,6 +86,8 @@ button{
   font-weight: 500;
   line-height: 1.5;
   letter:4%;
+  width:169px;
+  height:56px;
 }
 .about-us {
     list-style: none;
@@ -205,5 +215,15 @@ footer {
   font: weight 700px;;
   font-style: normal;
   text-decoration: none;
+  
+}
+
+.studio-footer {
+  color: #f4f4fd;
+  
+  
+}
+.span2{
+  color: #4d5ae5;
 }
 
